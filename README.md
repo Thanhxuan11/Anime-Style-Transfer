@@ -6,3 +6,8 @@ Tabe Style:
 Shinkai Style:
 ![image](https://github.com/user-attachments/assets/f892daa7-bde5-4670-b901-ed39ce24fea2)
 
+Checkpoint:https://drive.google.com/file/d/11cPvAhsaI2dprztDUVJmJx47AQI9h6m9/view?usp=sharing
+
+
+🎮 Usage:
+Install dependent packages
