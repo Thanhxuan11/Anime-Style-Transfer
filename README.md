@@ -10,6 +10,9 @@ Checkpoint:https://drive.google.com/file/d/11cPvAhsaI2dprztDUVJmJx47AQI9h6m9/vie
 
 
 🎮 Usage:
+
 1.Install dependent packages: pip install -r requirements.txt 
+
 2.Download : Checkpoint
+
 3.Run Demo: streamlit run Demo.py
